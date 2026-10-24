@@ -1,8 +1,8 @@
 # Marco Estrada
 
-AI systems architect based in Germany.
+AI systems architect based in Germany. I run Taktitekt, an external digital department for businesses.
 
-I design and build AI and automation systems for small businesses, with one
+I design and build AI and automation systems for businesses, with one
 rule: the AI does the repetitive work, and a person keeps the judgment.
 
 ## Open-source projects
